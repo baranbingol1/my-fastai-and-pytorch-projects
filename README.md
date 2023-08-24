@@ -7,3 +7,6 @@ duckduckgo_search api ı kullanılarak oluşturulmuştur. API sayesinde internet
 
 # Pet Breed Classification
 Yaklaşık 37 tür kedi ve köpeği %99 isabet oranıyla ayırt edebilen bir web uygulaması. https://huggingface.co/spaces/barandinho/evcil_hayvan_turu adresinde deploy edilmiştir.
+
+# pytorch_lenet5_implementation
+Vanilla pytorch üzerinde LeNet-5 yapısı ve MNIST üzerinde test edilmesi
