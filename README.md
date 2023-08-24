@@ -10,3 +10,6 @@ Yaklaşık 37 tür kedi ve köpeği %99 isabet oranıyla ayırt edebilen bir web
 
 # pytorch_lenet5_implementation
 Vanilla pytorch üzerinde LeNet-5 yapısı ve MNIST üzerinde test edilmesi
+
+# pytorch_alexnet_implementation
+Vanilla pytorch üzerinde AlexNet yapısı ve MNIST üzerinde test edilmesi
