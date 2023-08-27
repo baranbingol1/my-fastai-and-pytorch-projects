@@ -16,3 +16,6 @@ PyTorch ile AlexNet yapısı implemente edildi ve MNIST üzerinde test edildi
 
 # pytorch_vgg_implementation
 VGG-16 PyTorch ile implemente edildi ayrıca VGG stilinde olan daha küçük bir neural net ile CIFAR-10 veri seti üzerinde test edildi
+
+# pytorch_resnet34_implementation
+ResNet34 PyTorch ile implemente edildi CIFAR-10 veri seti üzerinde test edildi
